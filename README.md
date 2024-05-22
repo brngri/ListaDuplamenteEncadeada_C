@@ -1,1 +1,1 @@
-# ListaDuplamenteEncadeada_C
+# Lista duplamente encadeada em C
